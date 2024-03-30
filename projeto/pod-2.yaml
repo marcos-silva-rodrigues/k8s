@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: pod-2
   labels:
-    app: segundo-pod
+    app: p2
 spec:
   containers:
     - name: container-pod-2
